@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\bin\Debug\for döngüsü -2.exe.config
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\bin\Debug\for döngüsü -2.exe
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\bin\Debug\for döngüsü -2.pdb
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for döngüsü -2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for döngüsü -2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for_döngüsü__2.Form1.resources
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for_döngüsü__2.Properties.Resources.resources
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for döngüsü -2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for döngüsü -2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for döngüsü -2.exe
+C:\Users\User\source\repos\for döngüsü -2\for döngüsü -2\obj\Debug\for döngüsü -2.pdb
